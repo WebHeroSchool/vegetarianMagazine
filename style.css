@@ -1,3 +1,6 @@
-.header__title {
-	color: red;
+.article {
+  font-family: 'Anonymous Pro', monospace;
+}
+.article__title {
+  font-family: 'Russo One', sans-serif;
 }
